@@ -1,0 +1,14 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+statsmodels>=0.14
+ccxt>=4.4
+requests>=2.32
+python-dotenv>=1.0
+matplotlib>=3.9
+seaborn>=0.13
+pyarrow>=17.0
+pytest>=8.3
+jupyter>=1.1
+ipykernel>=6.29
+tqdm>=4.66
